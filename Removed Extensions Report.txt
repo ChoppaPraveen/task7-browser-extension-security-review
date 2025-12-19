@@ -1,0 +1,10 @@
+Removed Extensions Report
+
+1. Free VPN Proxy
+   Reason: Excessive permissions and poor user reviews
+
+2. Unknown Screenshot Tool
+   Reason: Not in use and requested unnecessary access
+
+Note:
+Actual extension names may vary based on user system.

@@ -1,0 +1,13 @@
+Security Research References
+
+1. OWASP - Browser Security
+   https://owasp.org
+
+2. Google Chrome Security Blog
+   https://blog.google/products/chrome/
+
+3. Mozilla Add-ons Security
+   https://support.mozilla.org
+
+4. US-CERT Browser Security Guidelines
+   https://www.cisa.gov
